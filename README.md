@@ -87,7 +87,7 @@ This project utilized a mixed-methods approach combining:
 ### Installation
 1. Clone this repository
    ```bash
-   git clone https://github.com/yourusername/netflix-analytics-dashboard.git
+   git clone https://github.com/Ojasv-Issar/netflix-dash.git
    ```
 2. Open the `.pbix` file in Power BI Desktop
 3. Configure data source connections
